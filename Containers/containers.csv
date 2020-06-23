@@ -1,0 +1,4 @@
+;Geordend;Muteerbaar;Iterable;Dubbele waarden toegestaan
+Tuple;JA;JA;JA;JA
+Dictionary;JA;JA;JA;JA
+Set;JA;JA;JA;JA
